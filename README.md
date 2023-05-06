@@ -3,6 +3,7 @@ A comprehensive data analysis project exploring the prices and sales trends of a
 
 ## Introduction
 
+The Google Data Analytics Capstone project on Avocado Prices offers learners the opportunity to create their own case study path by selecting their own research question and dataset to analyze. Using the skills and tools learned throughout the Google Data Analytics course, learners will develop a hypothesis, explore their dataset, create visualizations, and draw insights and conclusions. This project allows learners to apply their newly acquired data analytics skills to a real-world scenario of their choosing and gain hands-on experience in the field. The avocado prices case study offers a great starting point for learners to apply their skills and knowledge, but the follow-your-own-case-study path provides learners with a unique opportunity to investigate and analyze data relevant to their interests and career aspirations.
 
 ## Ask
 
