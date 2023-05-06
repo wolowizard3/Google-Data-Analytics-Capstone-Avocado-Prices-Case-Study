@@ -7,13 +7,10 @@ The Google Data Analytics Capstone project on Avocado Prices offers learners the
 
 ## Ask
 
-Five questions will guide your case study:
-1.	What type of company does your client represent, and what are they asking you to accomplish?
-2.	What are the key factors involved in the business task you are investigating? 
-3.	What type of data will be appropriate for your analysis?
-4.	Where will you obtain that data?
-5.	Who is your audience, and what materials will help you present to them effectively?
-
+Questions that will guide our case study:
+1. What is the average price of avocados in the United States, and has it been significantly different between regions, specifically in the Northeast and West regions?
+2. Are there any seasonal patterns in avocado prices?
+3. Are there any relationships between avocado prices and factors such as volume sold, type of avocado, and region of origin?
 
 
 ## Prepare
