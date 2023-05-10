@@ -14,7 +14,7 @@ Questions that will guide our case study:
 
 ## Prepare
 
-We will use Avocado Prices (made available by Justin Kiggins under a CC0 license): Historical data about avocado prices and sales in grocery stores throughout the United States. The dataset is a popular dataset available on Kaggle that contains weekly retail prices of Hass avocados from various regions across the United States from 2015 to 2020.
+We will use [Avocado Prices](https://www.kaggle.com/datasets/neuromusic/avocado-prices) (made available by [Justin Kiggins](https://www.kaggle.com/neuromusic) under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/)): Historical data about avocado prices and sales in grocery stores throughout the United States. The dataset is a popular dataset available on Kaggle that contains weekly retail prices of Hass avocados from various regions across the United States from 2015 to 2020.
 
 The dataset contains the following columns:
 
