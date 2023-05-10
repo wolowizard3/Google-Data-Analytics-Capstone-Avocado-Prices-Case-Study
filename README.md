@@ -18,6 +18,8 @@ We will use Avocado Prices (made available by Justin Kiggins under a CC0 license
 
 The dataset contains the following columns:
 
+SQL Query: [Data process](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Avocado-Prices-Case-Study/blob/main/01_Data_Process.sql)
+
 1. Date: the date of the observation
 2. Average Price: the average price of a single avocado
 3. Total Volume: the total number of avocados sold
@@ -38,6 +40,8 @@ The dataset contains the following columns:
 We will import the dataset into BigQuery sandbox to use SQL since the data does exceed the 100 mb free limit. A dashboard or interactive visualization was created using Tableau Public.
 
 Following are the procedures we followed to prepare the data for analysis:
+
+SQL Query: [Data analysis](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Avocado-Prices-Case-Study/blob/main/02_Data_Analysis.sql)
 
 1. Downloading the dataset from kaggle
 2. Creating a database for this project
