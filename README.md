@@ -1,4 +1,4 @@
-# Google Data Analytics Capstone Avocado Prices Case Study (On-Ongoing)
+# Google Data Analytics Capstone Avocado Prices Case Study (Ongoing)
 
 ## Introduction
 
